@@ -1,11 +1,11 @@
 {
-  "allow_reinstall": true,
+  "source_commit": "fcdfca641e4c435cde7bd1745b953389378e386f",
+  "run_id": "43691818064",
   "download_url": "https://github.com/MaximPanfilov/unmatched-tracker-versions/releases/download/update-test/DeckWinrateTracker-Test.exe",
-  "built_at": "2026-11-15T00:11:29.0254325Z",
-  "source_commit": "dead92915f36e47404bee1f3012d50c7786b3287",
-  "run_id": "43656709266",
+  "allow_reinstall": true,
   "version": "2.5.15b",
+  "run_url": "https://github.com/MaximPanfilov/unmatched-winrate-tracker/actions/runs/43691818064",
+  "built_at": "2026-11-15T07:54:02.4335110Z",
   "source_ref": "main",
-  "sha256": "7dd1e6f38cbdf750da2c83a835a0451dbe16bf4f496898de685507a481d246e3",
-  "run_url": "https://github.com/MaximPanfilov/unmatched-winrate-tracker/actions/runs/43656709266"
+  "sha256": "84b6d1ff8893475d93f11b582d9359abeded5f9db187f2b5544b0d1f96733dbe"
 }
