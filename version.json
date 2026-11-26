@@ -1,7 +1,7 @@
 {
-    "url":  "https://github.com/MaximPanfilov/unmatched-tracker-versions/releases/tag/v2.7.4",
-    "sha256":  "6d0213047261ee40bdd53ea19cd5b17c32a7f91c6e9b17d6a2a69a5c0c2682ab",
-    "download_url":  "https://github.com/MaximPanfilov/unmatched-tracker-versions/releases/download/v2.7.4/DeckWinrateTracker.exe",
+    "url":  "https://github.com/MaximPanfilov/unmatched-tracker-versions/releases/tag/v3.0.0",
+    "sha256":  "eecf1b60acd5502b6055ed2c348b810a14bd67b77766dc7d75b112a54b064795",
+    "download_url":  "https://github.com/MaximPanfilov/unmatched-tracker-versions/releases/download/v3.0.0/DeckWinrateTracker.exe",
     "filename":  "DeckWinrateTracker.exe",
-    "version":  "2.7.4"
+    "version":  "3.0.0"
 }
